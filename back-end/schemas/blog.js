@@ -4,9 +4,9 @@ export default {
     title: 'Blog',
     fields: [
       {
-        name: 'name',
+        name: 'title',
         type: 'string',
-        title: 'Name'
+        title: 'Title' 
       },
       {
         name: 'content',
